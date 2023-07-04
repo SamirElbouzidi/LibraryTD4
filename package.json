@@ -1,0 +1,23 @@
+{
+  "name": "librarytd4",
+  "version": "1.0.0",
+  "description": "First Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamirElbouzidi/LibraryTD4.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamirElbouzidi/LibraryTD4/issues"
+  },
+  "homepage": "https://github.com/SamirElbouzidi/LibraryTD4#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "jest": "^29.5.0"
+  }
+}
